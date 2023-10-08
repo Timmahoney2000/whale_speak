@@ -1,4 +1,4 @@
-const input = "hey you guys farted too";
+const input = "hey you guys pooted too";
 
 const vowels = ["a", "e", "i", "o", "u"];
 
